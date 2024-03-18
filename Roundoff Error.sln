@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roundoff Error", "Roundoff Error\Roundoff Error.csproj", "{E199D355-7231-465E-B0A9-447F82C1E9A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E199D355-7231-465E-B0A9-447F82C1E9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E199D355-7231-465E-B0A9-447F82C1E9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E199D355-7231-465E-B0A9-447F82C1E9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E199D355-7231-465E-B0A9-447F82C1E9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
